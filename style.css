@@ -1,0 +1,36 @@
+body{
+    background-image: url(CHARBG.jpg);
+    background-size: cover;
+    background-position: 100%;
+    background-repeat: no-repeat;
+}
+.one{
+    color: yellow;
+}
+h3{
+    border: 2px double white;
+}
+.two{
+    color: red;
+}
+.three{
+    color: rgb(42, 214, 36);
+}
+img{
+    margin:10px 50px 70px 800px;
+    padding: 20px 20px 20px;
+}
+.four{
+    color: darkblue;
+}
+.five{
+    color: dimgray;
+}
+.six{
+    color: white;
+}
+h1{
+    color: brown;
+    font-size: 80px;
+    font-family: fantasy;
+}
